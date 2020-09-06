@@ -1,13 +1,4 @@
 ### Hi there 👋
-灵界和源堡的眷者
-源自古代的诡秘
-漫长历史的见证
-贝克兰德所有贫困孩子的保护者
-伟大的格尔曼.斯帕罗
-
-<!--
-**iwzy7071/iwzy7071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
