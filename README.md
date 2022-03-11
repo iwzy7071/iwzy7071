@@ -1,7 +1,7 @@
 ## About
 🎓 Graduate student in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)
 
-⏳ My Research Focus is on Recommender System and BlockChain
+⏳ My Current research focuses on Recommender System and BlockChain
 
 📫 E-Mail: iwzy7071@outlook.com
 
